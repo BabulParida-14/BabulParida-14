@@ -104,6 +104,10 @@ my programming, problem-solving, and software development skills.
 
 ---
 
+📫 Connect with me
+LinkedIn:
+www.linkedin.com/in/babul-parida-b0029832a
+
 ## 🎯 Areas of Interest
 
 ```text
@@ -115,17 +119,3 @@ Data Science
 Machine Learning
 Database Management
 Software Development
-
-## 🤝 Let's Connect
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/babul-parida-b0029832a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
