@@ -79,23 +79,8 @@ my programming, problem-solving, and software development skills.
 
 ### 🔐 Other Projects
 
-- **Chrono-Vault**
+- **Time Capsule**
   - `Chrono-Vault`
-
----
-
-## 📌 Next Projects
-
-I'm planning to build more advanced projects to strengthen my
-development and data skills:
-
-- 🛒 E-Commerce Web Application — Django
-- 💰 Personal Expense Tracker — Python + Django
-- 📊 Business Analytics Dashboard — Python + Power BI
-- 🤖 Machine Learning Prediction System
-- 💬 AI Chatbot — Python
-- 🔐 Authentication & Authorization System
-- ☁️ REST API Backend — Django REST Framework
 
 ---
 
@@ -129,5 +114,4 @@ Data Analytics
 Data Science
 Machine Learning
 Database Management
-REST API Development
 Software Development
